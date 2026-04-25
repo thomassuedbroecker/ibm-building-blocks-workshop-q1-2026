@@ -139,7 +139,7 @@ unzip main.zip
 ### Step 3: Navigate to the Deployment Directory
 
 ```bash
-cd building-blocks-main/build-and-deploy/Iaas/assets/deploy-bob-ansible/
+cd building-blocks-main/build-and-deploy/Iaas/assets/deploy-bob-anisble/
 ```
 
 ### Step 4: Verify the Directory Contents
