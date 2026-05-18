@@ -288,7 +288,7 @@ Expected output:
 If the path is different, navigate back:
 
 ```bash
-cd ~/building-blocks-main/build-and-deploy/Iaas/assets/deploy-bob-ansible/
+cd ~/building-blocks-main/build-and-deploy/Iaas/assets/deploy-bob-anisble
 ```
 
 ### Step 2: Run the Deployment Playbook
